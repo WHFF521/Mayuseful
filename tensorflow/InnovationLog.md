@@ -1,29 +1,32 @@
 # 2022.08.08
 ---
-&emsp;&emsp;×î½üÑ§Ï°ÁËÓĞ¹ØÉñ¾­ÍøÂçµÄÖªÊ¶£¬±»¸÷ÖÖÈí¼şºÍ»·¾³µÄÅäÖÃÕÛÄ¥¡£ÓÉÓÚÑ§Ï°ÁË´óÁ¿µÄÖªÊ¶ÒÔÖÁÓÚÎÒ¶¼²»ÖªµÀ´ÓÄÄÀï¼ÇÆğ¡£
-  # Ò».anacondaµÄÊ¹ÓÃ
-&emsp;&emsp;ÆäÊµanacondaµÄÊ¹ÓÃ²¢²»ÊÇ±ØĞëµÄ£¬µ«ÊÇÎÒÃÇÕæµÄĞèÒªµÄÒ»¸ö×Ô¶¨ÒåÅäÖÃµÄĞéÄâ»·¾³¡£ÓÈÆäÊÇ¶ÔÓÚtensorflowÕâÖÖÓĞºÃ¶à°æ±¾µÄ¶«Î÷¡£
-&emsp;&emsp;¼òµ¥À´Ëµ£¬anaconda¾ÍÊÇÒ»¸ö´´½¨ĞéÄâ»·¾³µÄ¹¤¾ß£¬Õâ¸öĞéÄâ»·¾³¿ÉÒÔ×Ô¶¨ÒåpythonµÈ¸÷ÖÖÈí¼şµÄ°æ±¾£¬ÇÒ²»ÊÜµçÄÔ±¾Ìå»·¾³µÄÓ°Ïì£¬¿ÉÒÔÈÏÎªÊÇ¸öĞ¡µÄĞéÄâ»ú¡££¨ÒòÎªºÜ¶àÈí¼şÔÚ¸üĞÂ»»´úÖĞÓÉÓÚ°æ±¾µÄ²»Í¬ĞèÒª²»Í¬µÄ»·¾³£¬²»È»¾Í»áÔËĞĞ´íÎó£©¡£
-[Çå»ªÔ´ÏÂÔØanaconda](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)    
-&emsp;&emsp;°²×°¾ÍÃ»Ê²Ã´¿ÉËµµÄÁË£¬Ïë°²ÔÚÄÄ¸öÅÌ¾Í°²×°ÔÚÄÄ¸öÅÌ£¬¼Ç×¡°²ÔÚÄÄÀïÁË¾ÍĞĞ¡£ÎÒÃÇËùĞèÒªµÄÊÇ´ò¿ªAnaconda Prompt(anaconda3)
-![[anaconda prompt](anacondaprompt.jpg)](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/anacondaprompt.jpg?raw=true)
-´ò¿ªºó»á¿´¼ûÀàËÆÓÚÕâÑùµÄÒ»ĞĞ
+&emsp;&emsp;æœ€è¿‘å­¦ä¹ äº†æœ‰å…³ç¥ç»ç½‘ç»œçš„çŸ¥è¯†ï¼Œè¢«å„ç§è½¯ä»¶å’Œç¯å¢ƒçš„é…ç½®æŠ˜ç£¨ã€‚ç”±äºå­¦ä¹ äº†å¤§é‡çš„çŸ¥è¯†ä»¥è‡³äºæˆ‘éƒ½ä¸çŸ¥é“ä»å“ªé‡Œè®°èµ·ã€‚
+  # ä¸€.anacondaçš„ä½¿ç”¨
+&emsp;&emsp;å…¶å®anacondaçš„ä½¿ç”¨å¹¶ä¸æ˜¯å¿…é¡»çš„ï¼Œä½†æ˜¯æˆ‘ä»¬çœŸçš„éœ€è¦çš„ä¸€ä¸ªè‡ªå®šä¹‰é…ç½®çš„è™šæ‹Ÿç¯å¢ƒã€‚å°¤å…¶æ˜¯å¯¹äºtensorflowè¿™ç§æœ‰å¥½å¤šç‰ˆæœ¬çš„ä¸œè¥¿ã€‚
+&emsp;&emsp;ç®€å•æ¥è¯´ï¼Œanacondaå°±æ˜¯ä¸€ä¸ªåˆ›å»ºè™šæ‹Ÿç¯å¢ƒçš„å·¥å…·ï¼Œè¿™ä¸ªè™šæ‹Ÿç¯å¢ƒå¯ä»¥è‡ªå®šä¹‰pythonç­‰å„ç§è½¯ä»¶çš„ç‰ˆæœ¬ï¼Œä¸”ä¸å—ç”µè„‘æœ¬ä½“ç¯å¢ƒçš„å½±å“ï¼Œå¯ä»¥è®¤ä¸ºæ˜¯ä¸ªå°çš„è™šæ‹Ÿæœºã€‚ï¼ˆå› ä¸ºå¾ˆå¤šè½¯ä»¶åœ¨æ›´æ–°æ¢ä»£ä¸­ç”±äºç‰ˆæœ¬çš„ä¸åŒéœ€è¦ä¸åŒçš„ç¯å¢ƒï¼Œä¸ç„¶å°±ä¼šè¿è¡Œé”™è¯¯ï¼‰ã€‚
+[æ¸…åæºä¸‹è½½anaconda](https://mirrors.tuna.tsinghua.edu.cn/help/anaconda/)    
+&emsp;&emsp;å®‰è£…å°±æ²¡ä»€ä¹ˆå¯è¯´çš„äº†ï¼Œæƒ³å®‰åœ¨å“ªä¸ªç›˜å°±å®‰è£…åœ¨å“ªä¸ªç›˜ï¼Œè®°ä½å®‰åœ¨å“ªé‡Œäº†å°±è¡Œã€‚æˆ‘ä»¬æ‰€éœ€è¦çš„æ˜¯æ‰“å¼€Anaconda Prompt(anaconda3)
+![anaconda prompt](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/anacondaprompt.jpg?raw=true)
+
+æ‰“å¼€åä¼šçœ‹è§ç±»ä¼¼äºè¿™æ ·çš„ä¸€è¡Œ
 ` (base) C:\Users\WHFF521> `
-£¨~~´ËÊ±ÎÒÃÇÖ»ĞèÒª¾«ËùÓĞÍ¨condaÓï¾ä¾Í¿ÉÒÔÍêÃÀÊ¹ÓÃÁË~~£©
-ÎÒÃÇ¿ªÊ¼´´½¨ĞéÄâ»·¾³
+ï¼ˆ~~æ­¤æ—¶æˆ‘ä»¬åªéœ€è¦ç²¾æ‰€æœ‰é€šcondaè¯­å¥å°±å¯ä»¥å®Œç¾ä½¿ç”¨äº†~~ï¼‰
+æˆ‘ä»¬å¼€å§‹åˆ›å»ºè™šæ‹Ÿç¯å¢ƒ
 `conda create -n py37ten115 python=3.7`
-py37ten115ÊÇËæ±ãÆğµÄÃû×ÖÊ²Ã´Ãû×Ö¶¼ĞĞ£¬½¨ÒéÆğ¸öºÃ¼ÇµÄÃû×Ö£¬python=3.7±íÊ¾ÄÚÖÃ3.7°æ±¾µÄpython£¬²»Ğ´Ò²ĞĞ£¨½¨ÒéĞ´ÉÏ£¬ÒòÎªµÃÓÃ£©
-Ê¹ÓÃ`conda info -e`¿ÉÒÔ²é¿´ÒÑ¾­´´½¨ÓĞÄÄĞ©µÄĞéÄâ»·¾³
+py37ten115æ˜¯éšä¾¿èµ·çš„åå­—ä»€ä¹ˆåå­—éƒ½è¡Œï¼Œå»ºè®®èµ·ä¸ªå¥½è®°çš„åå­—ï¼Œpython=3.7è¡¨ç¤ºå†…ç½®3.7ç‰ˆæœ¬çš„pythonï¼Œä¸å†™ä¹Ÿè¡Œï¼ˆå»ºè®®å†™ä¸Šï¼Œå› ä¸ºå¾—ç”¨ï¼‰
+ä½¿ç”¨`conda info -e`å¯ä»¥æŸ¥çœ‹å·²ç»åˆ›å»ºæœ‰å“ªäº›çš„è™šæ‹Ÿç¯å¢ƒ
 [condainfoe](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/condainfov.jpg?raw=true)
-Ê¹ÓÃ`conda activate py37ten115`¼¤»îĞéÄâ»·¾³
+
+ä½¿ç”¨`conda activate py37ten115`æ¿€æ´»è™šæ‹Ÿç¯å¢ƒ
 ![condaactivate](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/condaactivate.jpg?raw=true)
-¿´¼ûÇ°ÃæÀ¨ºÅÀïÊÇ×Ô¼º´´½¨µÄĞéÄâ¿Õ¼äµÄÃû×ÖËµÃ÷µ±Ç°¾Í´¦ÓÚĞéÄâ»·¾³ÖĞÁË¡£
-ÊäÈë`conda deactivate`¿ÉÒÔÍË³öĞéÄâ»·¾³
-ÓÉÓÚtensorflow2.0Ö®ºóµÄ°æ±¾É¾³ıÁËºÃ¶àÖ®Ç°µÄº¯Êı£¬µ¼ÖÂºÜ¶à´úÂë»á±¨´í£¬ÎÒĞèÒªµÄÖ´ĞĞµÄ´úÂëÓĞºÜ¶à1.0ÖĞ²ÅÓĞµÄº¯Êı£¬ËùÒÔÎÒÑ¡ÔñÏÂÔØtensorflow-gpu 1.15°æ±¾¡£gpu°æ±¾Ó¦¸ÃÊÇÖ»ÓĞNVIDIAÏÔ¿¨²ÅÄÜÓÃ£¬±¾»úÖ÷MX450µÄÏÔ¿¨ÍêÈ«¹»ÓÃÁË¡£
-ÊäÈë`conda install --channel https://conda.anaconda.org/hanyucui tensorflow-gpu=1.15`
-¾ÍÄÜ°²×°ÁË£¬ĞèÒªÏÂÔØ¶«Î÷ÊäÈëy»Ø³µ¾ÍĞĞÁË¡£
-ÏÂÔØ¶«Î÷ÒªÊÇºÜÂı¾Í°²×°Çå»ªÔ´¸æËßµÄ¸ÄÒ»ÏÂÏÂÔØÔ´
-![ÏÂÔØÔ´](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/tuna.jpg?raw=true)
+
+çœ‹è§å‰é¢æ‹¬å·é‡Œæ˜¯è‡ªå·±åˆ›å»ºçš„è™šæ‹Ÿç©ºé—´çš„åå­—è¯´æ˜å½“å‰å°±å¤„äºè™šæ‹Ÿç¯å¢ƒä¸­äº†ã€‚
+è¾“å…¥`conda deactivate`å¯ä»¥é€€å‡ºè™šæ‹Ÿç¯å¢ƒ
+ç”±äºtensorflow2.0ä¹‹åçš„ç‰ˆæœ¬åˆ é™¤äº†å¥½å¤šä¹‹å‰çš„å‡½æ•°ï¼Œå¯¼è‡´å¾ˆå¤šä»£ç ä¼šæŠ¥é”™ï¼Œæˆ‘éœ€è¦çš„æ‰§è¡Œçš„ä»£ç æœ‰å¾ˆå¤š1.0ä¸­æ‰æœ‰çš„å‡½æ•°ï¼Œæ‰€ä»¥æˆ‘é€‰æ‹©ä¸‹è½½tensorflow-gpu 1.15ç‰ˆæœ¬ã€‚gpuç‰ˆæœ¬åº”è¯¥æ˜¯åªæœ‰NVIDIAæ˜¾å¡æ‰èƒ½ç”¨ï¼Œæœ¬æœºä¸»MX450çš„æ˜¾å¡å®Œå…¨å¤Ÿç”¨äº†ã€‚
+è¾“å…¥`conda install --channel https://conda.anaconda.org/hanyucui tensorflow-gpu=1.15`
+å°±èƒ½å®‰è£…äº†ï¼Œéœ€è¦ä¸‹è½½ä¸œè¥¿è¾“å…¥yå›è½¦å°±è¡Œäº†ã€‚
+ä¸‹è½½ä¸œè¥¿è¦æ˜¯å¾ˆæ…¢å°±å®‰è£…æ¸…åæºå‘Šè¯‰çš„æ”¹ä¸€ä¸‹ä¸‹è½½æº
+![ä¸‹è½½æº](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/tuna.jpg?raw=true)
 ```
 channels:
   - defaults
@@ -42,56 +45,57 @@ custom_channels:
   simpleitk: https://mirrors.tuna.tsinghua.edu.cn/anaconda/cloud
   ```
 
-ÎÒÃÇ¿ÉÒÔÖ´ĞĞpythonÓï¾ä¿´Ò»¿´µ±Ç°tensorflowµÄ°æ±¾
+æˆ‘ä»¬å¯ä»¥æ‰§è¡Œpythonè¯­å¥çœ‹ä¸€çœ‹å½“å‰tensorflowçš„ç‰ˆæœ¬
 ```python
 import tensorflow as tf
 print(tf.__version__)
  ```
- ÔÚÃüÁîĞĞÖĞÖ´ĞĞ¶àÖØpythonÓï¾äµÄÊ±ºòÃ¿¾ä»°ºóÃæ¼ÓÉÏ`;\`¾ÍÄÜ¼ÌĞøĞ´È»ºóÔÚ×îºóÒ»ĞĞ´úÂë»Ø³µÒ»´ÎÖ´ĞĞ
+ åœ¨å‘½ä»¤è¡Œä¸­æ‰§è¡Œå¤šé‡pythonè¯­å¥çš„æ—¶å€™æ¯å¥è¯åé¢åŠ ä¸Š`;\`å°±èƒ½ç»§ç»­å†™ç„¶ååœ¨æœ€åä¸€è¡Œä»£ç å›è½¦ä¸€æ¬¡æ‰§è¡Œ
 ![pyten115](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/pythontensorflow.jpg?raw=true)
 
-##ÎÒÊÇÕæµÄ²»ÏëĞ´£¬ÒòÎªØ¬ÃÎ²Å¸Õ¸Õ¿ªÊ¼
 
-# ¶ş. CUDA
-&emsp;&emsp;¶ÔÓÚ²»Í¬µÄtensorflow°æ±¾£¬ÎÒÃÇĞèÒª²»Í¬µÄCUDA°æ±¾¡£CUDA¿ÉÒÔÀí½âÎªNVIDIAµÄÒ»Ğ©¹¤¾ß£¬tensorflowÓÃÕâĞ©ÊµÏÖÈíÓ²¼ş¶Ô½Ó¿ÉÄÜÊÇ£¨ÎÒÊÇÕâÃ´Ëµ·ş×Ô¼ºµÄ£©¡£µ±³õ×Ô¼º°Ù¶ÈÑ§µÄÖ±½ÓÔÚ×Ô¼ºµçÄÔÉÏ×°¸÷ÖÖ°æ±¾µÄCUDAÈ»ºó»¹È±¸÷ÖÖDLLÎÄ¼ş·Ç³£ÕÛÄ¥¡£ºóÀ´¿´ÁË±±´ó²Ü½¡ÀÏÊ¦µÄ¿Î²ÅÖªµÀÔÚĞéÄâ»·¾³Àï¿ÉÒÔÓÃÖ¸ÁîÖ±½Ó×°¡£¶ÔÓÚÖ±½Ó×°×Ô¼ºµçÄÔÒ²¿ÉÒÔÓÃ£¬µ«ÊÇÏÔµÃºÜ´ô¡£ÏñÕâÖÖÓĞ¹ØÏµÍ³µÄÈí¼ş¾ÍÖ±½Ó°²×°CÅÌ¾ÍĞĞÁË£¬Ê¡µÄÂé·³¡£
+##æˆ‘æ˜¯çœŸçš„ä¸æƒ³å†™ï¼Œå› ä¸ºå™©æ¢¦æ‰åˆšåˆšå¼€å§‹
+
+# äºŒ. CUDA
+&emsp;&emsp;å¯¹äºä¸åŒçš„tensorflowç‰ˆæœ¬ï¼Œæˆ‘ä»¬éœ€è¦ä¸åŒçš„CUDAç‰ˆæœ¬ã€‚CUDAå¯ä»¥ç†è§£ä¸ºNVIDIAçš„ä¸€äº›å·¥å…·ï¼Œtensorflowç”¨è¿™äº›å®ç°è½¯ç¡¬ä»¶å¯¹æ¥å¯èƒ½æ˜¯ï¼ˆæˆ‘æ˜¯è¿™ä¹ˆè¯´æœè‡ªå·±çš„ï¼‰ã€‚å½“åˆè‡ªå·±ç™¾åº¦å­¦çš„ç›´æ¥åœ¨è‡ªå·±ç”µè„‘ä¸Šè£…å„ç§ç‰ˆæœ¬çš„CUDAç„¶åè¿˜ç¼ºå„ç§DLLæ–‡ä»¶éå¸¸æŠ˜ç£¨ã€‚åæ¥çœ‹äº†åŒ—å¤§æ›¹å¥è€å¸ˆçš„è¯¾æ‰çŸ¥é“åœ¨è™šæ‹Ÿç¯å¢ƒé‡Œå¯ä»¥ç”¨æŒ‡ä»¤ç›´æ¥è£…ã€‚å¯¹äºç›´æ¥è£…è‡ªå·±ç”µè„‘ä¹Ÿå¯ä»¥ç”¨ï¼Œä½†æ˜¯æ˜¾å¾—å¾ˆå‘†ã€‚åƒè¿™ç§æœ‰å…³ç³»ç»Ÿçš„è½¯ä»¶å°±ç›´æ¥å®‰è£…Cç›˜å°±è¡Œäº†ï¼Œçœçš„éº»çƒ¦ã€‚
 ![cuda](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/CUDA.jpg?raw=true)
-ÏñÎÒÕâÑùµÄ×°ÁËÁ½¸ö°æ±¾µÄCUDA£¬ÊÇ¿ÉÒÔµÄ£¬ÔÚÏµÍ³»·¾³±äÁ¿ÖĞÁ½¸ö°æ±¾µÄCUDAË­ÔÚÇ°ÃæÓÃË­¡£
-[tensorflowºÍCUDAÆ¥Åä°æ±¾¹ÙÍøÁ´½Ó](https://tensorflow.google.cn/install/source_windows#gpu)
+åƒæˆ‘è¿™æ ·çš„è£…äº†ä¸¤ä¸ªç‰ˆæœ¬çš„CUDAï¼Œæ˜¯å¯ä»¥çš„ï¼Œåœ¨ç³»ç»Ÿç¯å¢ƒå˜é‡ä¸­ä¸¤ä¸ªç‰ˆæœ¬çš„CUDAè°åœ¨å‰é¢ç”¨è°ã€‚
+[tensorflowå’ŒCUDAåŒ¹é…ç‰ˆæœ¬å®˜ç½‘é“¾æ¥](https://tensorflow.google.cn/install/source_windows#gpu)
 
 ![tencuda](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/tencuda.jpg?raw=true)
-&emsp;&emsp;¸ù¾İ²Ü½¡ÀÏÊ¦µÄ¿Î³Ì½éÉÜÎÒÖØĞÂ³¢ÊÔ°²×°ÁËtensorflow2.1¡£ÓÖÓöµ½ÁËºÜ¶à´íÎó¡£ÎÒ·¢ÏÖÒªÏÈ°²×°cudatookitºÍcudadnnÈ»ºóÔÙ°²×°tensorflow£¬
+&emsp;&emsp;æ ¹æ®æ›¹å¥è€å¸ˆçš„è¯¾ç¨‹ä»‹ç»æˆ‘é‡æ–°å°è¯•å®‰è£…äº†tensorflow2.1ã€‚åˆé‡åˆ°äº†å¾ˆå¤šé”™è¯¯ã€‚æˆ‘å‘ç°è¦å…ˆå®‰è£…cudatookitå’Œcudadnnç„¶åå†å®‰è£…tensorflowï¼Œ
 `conda install cudatookit=10.1`
 ` conda install cudnn=7.6`
-ÄÜÓÃconda°²×°µÄcuda°æ±¾ºÜÉÙ£¬ºÜ¶àÀÏ¾É°æ±¾Ö»ÓĞÓ¢Î°´ï¹ÙÍø²ÅÓĞ¡£
+èƒ½ç”¨condaå®‰è£…çš„cudaç‰ˆæœ¬å¾ˆå°‘ï¼Œå¾ˆå¤šè€æ—§ç‰ˆæœ¬åªæœ‰è‹±ä¼Ÿè¾¾å®˜ç½‘æ‰æœ‰ã€‚
 
 # 2022.08.10
-&emsp;&emsp;ÖÕÓÚ¸ã¶¨ÁË£¬ÓëÆäÅªÒ»¸öÀÏ¾ÉµÄ»·¾³È¥Æ¥Åä´úÂë£¬²»ÈçÖ±½Ó°Ñ´úÂë¸Ä³ÉĞÂ°æ±¾Ö§³ÖµÄº¯Êı´úÂë£¬¾ÍËãÊÇ2.0Ö®ºóµÄ°æ±¾Ò²ÊÇ¿ÉÒÔÔËĞĞÖ®Ç°°æ±¾µÄ´úÂëµÄ£¬µ«ÊÇĞèÒª¸ü¸ÄºÜ¶àº¯Êı
-## Ò»¶¨Ò»¶¨Òªfreeze°¡£¬ÕæµÄÊÇ×÷Äõ
-¶ÔÓÚ×Ô¼º´úÂëËùÓĞµÄ»·¾³Ğ´½ørequirement.txtÀïÃæ£¬Ò²ËãÊÇĞĞÉÆ»ıµÂÁË¡£
+&emsp;&emsp;ç»ˆäºæå®šäº†ï¼Œä¸å…¶å¼„ä¸€ä¸ªè€æ—§çš„ç¯å¢ƒå»åŒ¹é…ä»£ç ï¼Œä¸å¦‚ç›´æ¥æŠŠä»£ç æ”¹æˆæ–°ç‰ˆæœ¬æ”¯æŒçš„å‡½æ•°ä»£ç ï¼Œå°±ç®—æ˜¯2.0ä¹‹åçš„ç‰ˆæœ¬ä¹Ÿæ˜¯å¯ä»¥è¿è¡Œä¹‹å‰ç‰ˆæœ¬çš„ä»£ç çš„ï¼Œä½†æ˜¯éœ€è¦æ›´æ”¹å¾ˆå¤šå‡½æ•°
+## ä¸€å®šä¸€å®šè¦freezeå•Šï¼ŒçœŸçš„æ˜¯ä½œå­½
+å¯¹äºè‡ªå·±ä»£ç æ‰€æœ‰çš„ç¯å¢ƒå†™è¿›requirement.txté‡Œé¢ï¼Œä¹Ÿç®—æ˜¯è¡Œå–„ç§¯å¾·äº†ã€‚
 ![require](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/requirement.jpg?raw=true)
-¶ÔÓÚ±¨´í` only integer scalar arrays can be converted to a scalar index`
-Ö®Ç°ÎÒÒ»Ö±ÒÔÎªÊÇpythonÓï·¨´íÎó£¬ÆäÊµ²»ÊÇ
+å¯¹äºæŠ¥é”™` only integer scalar arrays can be converted to a scalar index`
+ä¹‹å‰æˆ‘ä¸€ç›´ä»¥ä¸ºæ˜¯pythonè¯­æ³•é”™è¯¯ï¼Œå…¶å®ä¸æ˜¯
 ![error](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/TypeError.jpg?raw=true)
 
-ĞÂ°æ±¾Ã»ÓĞcontribµÄÎÊÌâ£º
+æ–°ç‰ˆæœ¬æ²¡æœ‰contribçš„é—®é¢˜ï¼š
 ![xavier](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/xavier_initializer.jpg?raw=true)
 AttributeError: module 'tensorflow' has no attribute 'get_variable'
-½«` tf.get_variable`¸Ä³É` tf.compat.v1.get_variable`
+å°†` tf.get_variable`æ”¹æˆ` tf.compat.v1.get_variable`
 
-Èç¹û»¹ÓĞÆäËûµÄ´íÎó¾Í×ÔÇó¶à¸£°É¡£
+å¦‚æœè¿˜æœ‰å…¶ä»–çš„é”™è¯¯å°±è‡ªæ±‚å¤šç¦å§ã€‚
 
 # PyCharm
-&emsp;&emsp;¹ÙÍø°²×°£¬Ï²»¶°²ÔÚÄÄÀï¾Í°²ÔÚÄÄÀï£¬¶ÔÓÚÃ¿Ò»¸ö¹¤³ÌÏîÄ¿×óÉÏ½ÇFileÀï´ò¿ªsettings£¬ÀïÃæProjectÀïÃæÅäÖÃpython»·¾³£¬ÒªÓÃ×Ô¼º½¨µÄĞéÄâ»·¾³µÄ»°¾ÍÖ±½ÓĞÂ½¨condaÒÑÓĞ»·¾³¡£ÓÃµÄ2»°ÓÃpycharm×îÏÂÃæÒ»ĞĞµÄterminal
+&emsp;&emsp;å®˜ç½‘å®‰è£…ï¼Œå–œæ¬¢å®‰åœ¨å“ªé‡Œå°±å®‰åœ¨å“ªé‡Œï¼Œå¯¹äºæ¯ä¸€ä¸ªå·¥ç¨‹é¡¹ç›®å·¦ä¸Šè§’Fileé‡Œæ‰“å¼€settingsï¼Œé‡Œé¢Projecté‡Œé¢é…ç½®pythonç¯å¢ƒï¼Œè¦ç”¨è‡ªå·±å»ºçš„è™šæ‹Ÿç¯å¢ƒçš„è¯å°±ç›´æ¥æ–°å»ºcondaå·²æœ‰ç¯å¢ƒã€‚ç”¨çš„2è¯ç”¨pycharmæœ€ä¸‹é¢ä¸€è¡Œçš„terminal
 ![terminal](https://github.com/WHFF521/Mayuseful/blob/main/tensorflow/terminal.jpg?raw=true)
-È»ºó¾Í¸÷ÖÖÖ´ĞĞpythonÎÄ¼ş£¬±¨´í¾Í°Ù¶ÈĞŞĞŞ²¹²¹£¬È»ºó¾ÍÃ»ÓĞÈ»ºóÁË¡£
+ç„¶åå°±å„ç§æ‰§è¡Œpythonæ–‡ä»¶ï¼ŒæŠ¥é”™å°±ç™¾åº¦ä¿®ä¿®è¡¥è¡¥ï¼Œç„¶åå°±æ²¡æœ‰ç„¶åäº†ã€‚
 
-### ¸½Ôù¹úÄÚÏÂÔØÔ´
+### é™„èµ å›½å†…ä¸‹è½½æº
 ```
-Çå»ª£ºhttps://pypi.tuna.tsinghua.edu.cn/simple
-°¢ÀïÔÆ£ºhttp://mirrors.aliyun.com/pypi/simple/
-ÖĞ¹ú¿Æ¼¼´óÑ§ https://pypi.mirrors.ustc.edu.cn/simple/
-»ªÖĞÀí¹¤´óÑ§£ºhttp://pypi.hustunique.com/
-É½¶«Àí¹¤´óÑ§£ºhttp://pypi.sdutlinux.org/
-¶¹°ê£ºhttp://pypi.douban.com/simple/
+æ¸…åï¼šhttps://pypi.tuna.tsinghua.edu.cn/simple
+é˜¿é‡Œäº‘ï¼šhttp://mirrors.aliyun.com/pypi/simple/
+ä¸­å›½ç§‘æŠ€å¤§å­¦ https://pypi.mirrors.ustc.edu.cn/simple/
+åä¸­ç†å·¥å¤§å­¦ï¼šhttp://pypi.hustunique.com/
+å±±ä¸œç†å·¥å¤§å­¦ï¼šhttp://pypi.sdutlinux.org/
+è±†ç“£ï¼šhttp://pypi.douban.com/simple/
 
 ```
